@@ -6,7 +6,7 @@ This repository hosts **ad-free releases of Spotify** for Android devices.
 
 ## 📦 Latest Release
 
-Download the latest modified Spotify APK from the [Releases](https://github.com/yourusername/spotify-adfree/releases) section.
+Download the latest modified Spotify APK from the [Releases](https://github.com/ddrxz/Spotify-NoAds/releases) section.
 
 > Always uninstall any previous versions before installing a new one.  
 > This version is for educational/testing purposes only.
